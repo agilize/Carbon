@@ -2193,7 +2193,7 @@ class Carbon extends DateTime implements JsonSerializable
     }
 
     /**
-     * @alias toDateTime
+
      *
      * Return native DateTime PHP object matching the current instance.
      *
@@ -4483,7 +4483,7 @@ class Carbon extends DateTime implements JsonSerializable
     }
 
     /**
-     * @alias diffForHumans
+
      *
      * Get the difference in a human readable format in the current locale.
      *
@@ -4520,7 +4520,7 @@ class Carbon extends DateTime implements JsonSerializable
     }
 
     /**
-     * @alias diffForHumans
+
      *
      * Get the difference in a human readable format in the current locale.
      *
@@ -4589,7 +4589,7 @@ class Carbon extends DateTime implements JsonSerializable
     }
 
     /**
-     * @alias to
+
      *
      * Get the difference in a human readable format in the current locale from an other
      * instance given (or now if null given) to current instance.
